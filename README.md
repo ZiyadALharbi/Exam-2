@@ -1,1 +1,3 @@
-# Exam-2
+# exam_2
+
+A new Flutter project.
