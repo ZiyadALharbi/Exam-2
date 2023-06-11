@@ -1,4 +1,0 @@
-#Sun Jun 11 16:05:56 AST 2023
-base.0=/Users/ziyadalharbi/flutterProject/exam_2/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
-path.0=classes.dex
-renamed.0=classes.dex
